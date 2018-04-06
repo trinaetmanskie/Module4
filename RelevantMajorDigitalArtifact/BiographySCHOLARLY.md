@@ -1,0 +1,3 @@
+This board game is based upon the story of Laura Secord. She travelled for almost 24 hours on her own to warn the British of an attack by American soldiers. This board game is based upon on the Twine game which I created for Module 3. This board game allows players to enjoy the story of Laura Secord in real life. 
+
+This game is directed for children to play, ages 5+ and for 2-5 players. Children learn about the War of 1812 in elementary school and therefore this game would allow them to learn about the war and play a game about it that is not necessarily violent. The story of Laura Secord is important to Canadian Nationalism and this game is a small glimpse into her life and story.
