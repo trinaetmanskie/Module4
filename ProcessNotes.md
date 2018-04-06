@@ -1,7 +1,5 @@
 # Process Notes
 
-*Brainstorm*
-
 - I tried opening Twine but my game wasn’t there…I don’t know where it went
 - When I search “Laura Secord” into my search bar the link comes up…anyways I found my Twine game
 - Started with the basics and figured out that I wanted a Candy Land type board for the game. I thought at first Monopoly but that is a lot of effort and a lot more thinking then really needs to go into a game designed for children.
