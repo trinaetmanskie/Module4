@@ -8,4 +8,4 @@ This game is for children ages 5+.
 
 WARNING: This game could lead to arguments, fights and the uncontrollable urge to yell "The Americans are Coming!"
 
-PLease play at your own discretion. 
+Please play at your own discretion. 
